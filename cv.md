@@ -1,1 +1,2 @@
-
+# Mikhail Shnitko
+## Junior Frontend
